@@ -20,6 +20,7 @@
  var BFHPhoneFormatList = {
    'AF': '0dd ddd dddd',
    'AL': '0dd ddd ddd',
+//   'AR': '(dddd) ddd ddddd',
    'DZ': '0ddd dd dd dd',
    'AS': '(ddd) ddd-dddd',
    'AD': 'ddddddddd',
